@@ -1,4 +1,4 @@
-# Unhinted Iosevka Fixed WebFont 24.0.0
+# Unhinted Iosevka Fixed WebFont 24.1.0
 
 ## How to use
 
